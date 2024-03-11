@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/juans/stylus-workshop-nft/target/release/build/typenum-39e223e1bac0893b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/juans/stylus-workshop-nft/target/release/build/typenum-39e223e1bac0893b/out/op.rs

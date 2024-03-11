@@ -1,0 +1,1 @@
+/mnt/c/Users/juans/stylus-workshop-nft/target/wasm32-unknown-unknown/release/stylus-workshop-nft.wasm: /mnt/c/Users/juans/stylus-workshop-nft/src/art.rs /mnt/c/Users/juans/stylus-workshop-nft/src/erc712.rs /mnt/c/Users/juans/stylus-workshop-nft/src/lib.rs /mnt/c/Users/juans/stylus-workshop-nft/src/main.rs /mnt/c/Users/juans/stylus-workshop-nft/src/utils.rs
